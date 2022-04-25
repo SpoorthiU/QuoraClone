@@ -4,14 +4,15 @@ Its also a great way to stay-up-to date on the latest trends and development in 
 
 
 # Software Requiremnts
-  visual studio code20.
-  ----------
-  google chrome /microsoft edge
-  ----------
-  front end:HTML, CSS, JS, BOOTSTRAP
-  ------------
-  Windows XP/7/8/10/11
-  
+    visual studio code20.
+    ----------
+    google chrome /microsoft edge
+    ----------
+    front end:HTML, CSS, JS, BOOTSTRAP
+    ------------
+    Windows XP/7/8/10/11
+    ----------
+
   
 # Snapshots of the Website
 
@@ -30,8 +31,9 @@ fig 3: question page
 
 
 # About Team
-Anusha J
---------
-Bhavya
--------
-Vishwas
+    Anusha J
+    --------
+    Bhavya
+    -------
+    Vishwas
+    ------
