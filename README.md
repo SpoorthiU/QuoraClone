@@ -1,4 +1,4 @@
-# EngineersApathbandava
+# QuoraClone
 A Question-and-Answer website for making the Engineering students life better and easy.
 Its also a great way to stay-up-to date on the latest trends and development in your field.
 
